@@ -1,0 +1,19 @@
+.center{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    }
+    ul.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+}
+.color{
+    list-style-type: none;
+   
+    padding: 0;
+    
+    background-color: #89ccf0;
+}
